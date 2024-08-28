@@ -1,7 +1,7 @@
 
-#Dhruv Patel's First CS193 Homework
+# Dhruv Patel's First CS193 Homework
 
--The first week of cs 193 was good
+- The first week of cs 193 was good
 - The class is helping me understand tools that will definitely help me
 - The class makes a lot of sense to me 
 
